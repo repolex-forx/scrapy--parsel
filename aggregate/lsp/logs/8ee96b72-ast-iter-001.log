@@ -1,0 +1,7 @@
+[2026-10-11T02:10:07Z] === AST ITERATION 1 START | repo=scrapy/parsel sha=8ee96b72 ===
+[2026-10-11T02:10:07Z] [iter=1] PHASE START: ast repo=scrapy/parsel sha=8ee96b72
+[2026-10-11T02:10:07Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T02:10:26Z] [iter=1] AST chunks built count=1 triples=159242
+[2026-10-11T02:10:26Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8ee96b7239775b4dbf214fd17e51d49e95538f16/.complete
+[2026-10-11T02:10:26Z] [iter=1] PHASE END: ast elapsed_s=18 elapsed_min=0.3
+[2026-10-11T02:10:26Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
