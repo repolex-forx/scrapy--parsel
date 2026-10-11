@@ -1,0 +1,11 @@
+{
+  "org": "scrapy",
+  "repo": "parsel",
+  "versions": [
+    {
+      "commit": "8ee96b7239775b4dbf214fd17e51d49e95538f16",
+      "tag": "",
+      "parsed_at": "2026-10-11T02:11:40.923493+00:00"
+    }
+  ]
+}
